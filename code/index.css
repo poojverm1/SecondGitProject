@@ -46,7 +46,11 @@ body {
       transition: box-shadow 0.3s linear 0.1s; }
     .banner .card .sub-heading button:hover {
       cursor: pointer;
-      box-shadow: 0 3px 20px 0 #35eea4; }
+      
+
+
+box-shadow: 0 3px 20px 0 #35eea4; }
+
 
 .row {
   display: block;
